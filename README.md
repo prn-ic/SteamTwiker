@@ -3,3 +3,4 @@
 _SteamTwiker - программа для удобной смены аккаунтов Steam_
 ## Принцип работы: <br/>
 Все очень просто, запускаешь программу, добавляешь аккаунт, нажимаешь запустить
+### Скачать - https://drive.google.com/file/d/1EmwNa_G1MOZ22xzxrWZ7fhorNarvI1VQ/view?usp=sharing
